@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Adopción de inteligencia artificial",
+    "content": "La adopción de inteligencia artificial permite automatizar procesos, analizar grandes cantidades de información y mejorar la toma de decisiones. Requiere capacitación, infraestructura y controles adecuados."
+  },
+  {
+    "id": 2,
+    "title": "Beneficios de la automatización",
+    "content": "La automatización reduce tareas repetitivas, mejora la productividad, disminuye errores operativos y permite que los equipos se concentren en actividades de mayor valor."
+  },
+  {
+    "id": 3,
+    "title": "Riesgos de inteligencia artificial",
+    "content": "La inteligencia artificial puede presentar riesgos relacionados con sesgos, errores, privacidad de datos y dependencia tecnológica. Es importante implementar controles y supervisión humana."
+  },
+  {
+    "id": 4,
+    "title": "Transformación digital",
+    "content": "La transformación digital permite mejorar la atención al cliente, optimizar inventarios, automatizar procesos y tomar decisiones basadas en datos."
+  },
+  {
+    "id": 5,
+    "title": "Indicadores de productividad",
+    "content": "Los indicadores de productividad permiten medir tiempos de ejecución, cantidad de tareas completadas, costos operativos y errores. Estos datos ayudan a evaluar resultados."
+  },
+  {
+    "title": "APIs REST y m?todos HTTP",
+    "content": "\n        API REST es una interfaz que permite la comunicaci?n entre\n        aplicaciones mediante HTTP. Utiliza recursos identificados\n        mediante URLs y m?todos GET, POST, PUT, PATCH y DELETE.\n        GET consulta recursos, POST crea recursos, PUT y PATCH\n        actualizan recursos y DELETE elimina recursos. REST utiliza\n        principios como cliente servidor, stateless, cach? e interfaz\n        uniforme. Las respuestas suelen utilizar JSON y c?digos HTTP.\n        "
+  },
+  {
+    "title": "Python y estructuras de datos",
+    "content": "\n        Python es un lenguaje de programaci?n interpretado y multiprop?sito.\n        Sus estructuras de datos principales incluyen listas, tuplas,\n        diccionarios y conjuntos. Las listas son mutables, las tuplas\n        son inmutables, los diccionarios almacenan pares clave valor\n        y los conjuntos contienen elementos ?nicos. Python permite\n        desarrollar APIs, automatizaciones y aplicaciones backend.\n        "
+  },
+  {
+    "title": "MongoDB y bases de datos NoSQL",
+    "content": "\n        MongoDB es una base de datos NoSQL orientada a documentos.\n        Almacena informaci?n en documentos BSON organizados en colecciones.\n        Permite operaciones CRUD: insertar, consultar, actualizar y eliminar.\n        Se utiliza para aplicaciones web, APIs y sistemas que necesitan\n        esquemas flexibles. MongoDB Atlas ofrece alojamiento en la nube.\n        "
+  },
+  {
+    "title": "SQL y bases de datos relacionales",
+    "content": "\n        SQL es un lenguaje para administrar bases de datos relacionales.\n        Permite crear tablas mediante CREATE TABLE, consultar datos con\n        SELECT, insertar con INSERT, modificar con UPDATE y eliminar con\n        DELETE. Las relaciones utilizan claves primarias y for?neas.\n        PostgreSQL es un sistema gestor de bases de datos relacional.\n        "
+  },
+  {
+    "title": "Desarrollo backend y arquitectura de APIs",
+    "content": "\n        El backend implementa la l?gica de negocio, administra datos\n        y expone servicios mediante APIs. Frameworks como FastAPI\n        permiten construir APIs REST con Python. Una arquitectura\n        backend puede incluir rutas, controladores, servicios,\n        agentes, bases de datos, autenticaci?n y validaci?n.\n        "
+  }
+]
